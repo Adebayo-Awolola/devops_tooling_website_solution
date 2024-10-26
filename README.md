@@ -1,9 +1,5 @@
 ####                    DevOps Tooling Website Documentation
 
-Links  
-[SELF STUDY](https://docs.google.com/document/d/1hVlFnTPj5zYaiLiESrPeVNd_30PGewvuNsLoSNHHejg/edit?usp=sharing)
-
-[Linkedin](https://www.linkedin.com/posts/adebayo-awolola_devops-webdevelopment-mysql-activity-7255817786927587328-8BzK?utm_source=share&utm_medium=member_desktop)
 
 #### ![][image1]
 
